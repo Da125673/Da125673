@@ -15,8 +15,6 @@ I’m currently wokring on my website, a chess game, and a pong game<br>I’m cu
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Da125673&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Da125673&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Da125673&icon=2&color=0)](https://visitcount.itsvg.in)
